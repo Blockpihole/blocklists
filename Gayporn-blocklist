@@ -3,7 +3,8 @@
 # It's not used to block all gay porn, you will need other lists as well.
 
 joomdesk.surf
-
+croxyproxy.rocks
+croxy.red
 nl.1hoy.com
 1hoy.com
 o-be.com
@@ -438,6 +439,9 @@ gay-tubes.cc
 
 # Again the same domains with www, because some don't get blocked otherwise
 
+www.joomdesk.surf
+www.croxyproxy.rocks
+www.croxy.red
 www.nl.1hoy.com
 www.1hoy.com
 www.o-be.com
